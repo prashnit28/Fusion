@@ -25,3 +25,21 @@
     margin:0px;
     color: #0f0f0f;
 }
+ body{
+     padding: 50px 0px 0px 0px;
+     z-index: 0;
+ }
+
+ .navbar-dark{
+    background-color: #512DA8; 
+ }
+
+ .breadcrumb{
+     box-shadow: 1px 1px #d5d4d4;
+     background:#eeeded ;
+     border: 1px solid #eeeded;
+     border-radius: 5px;
+     padding: 0 5px 0 10px !important;
+     font-size: 16px;
+     line-height: 2em;
+ }
