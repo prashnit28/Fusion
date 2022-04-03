@@ -43,3 +43,44 @@
      font-size: 16px;
      line-height: 2em;
  }
+
+ #button1 {
+     background: #356ed6fb;
+     border-radius: 3px;
+     border: none;
+     height: 30px;
+ }
+
+ #button2 {
+     background: gold;
+     border-radius: 5px;
+     border: none;
+     height: 40px;
+     width: 150px;
+ }
+ 
+ .navbar-dark {
+     background-color: #512DA8;
+ }
+
+ .carousel {
+     background: #512DA8;
+
+ }
+
+ .carousel-item {
+       height: 300px;
+ }
+
+ .carousel-item img {
+     position: absolute;
+     top: 0;
+     left: 0;
+     min-height: 300px;
+ }
+#carouselButton {
+    right: 173px;
+    position: absolute;
+    bottom: 0px;
+    width: 5px;
+}
